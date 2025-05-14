@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=EE62F7&multiline=true&width=435&lines=%24+whoami;fatima+omerovic" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 I’m currently working on getting Security+ certificate<br>🌱 I’m currently learning web development<br>💬 Ask me about anything, I am happy to help<br>⚡ I love playing video games and going on walks with my dog
+🔭 I’m currently working on getting Security+ certificate<br>🌱 I’m currently learning web development<br>💬 Ask me about anything, I am happy to help<br>❤️ I love playing video games and going on walks with my dog
 
 
 ## 🌐 Socials:
