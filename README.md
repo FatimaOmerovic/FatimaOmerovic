@@ -22,6 +22,7 @@
 </div>
 
 ###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=EE62F7&multiline=true&width=435&lines=%24+whoami;fatima+omerovic" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=EE62F7&multiline=true&width=435&lines=%24+whoami;fatima+omerovic" alt="Typing SVG" /></a> 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
