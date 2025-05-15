@@ -4,7 +4,7 @@
 🔭 I’m currently working on getting Security+ certificate<br>🌱 I’m currently learning web development<br>💬 Ask me about anything, I am happy to help<br>❤️ I love playing video games and going on walks with my dog
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-omerovic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimaomerovi@outlook.com) [![Resume](https://img.shields.io/badge/Resume-FF69B4?logo=adobe-acrobat-reader&logoColor=white)](https://omerovicresume.tiiny.site)
 
 # 💻 Tech Stack:
